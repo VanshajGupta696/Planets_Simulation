@@ -29,7 +29,8 @@ The simulation window will open, displaying the Sun and several planets. The sim
 ## Features
 - Visualization of the Sun, Earth, Mars, Mercury, Venus, and Earth's Moon.
 - Realistic orbital velocities for each celestial body.
-- The Moon's orbit around Earth demonstrates a simplified model of satellite motion.
+
+![Simulation Screenshot](images/simulation.png "Simulation Screenshot Example")
 
 ## Contributing
 Contributions to this project are welcome! Here are a few ways you can help:
